@@ -1,7 +1,16 @@
-# Python Web Scraping 
-This repo contains materials of my talk at PyData Seattle 2017
+# Tutorial: Web Scraping with Python
+This repo contains materials of my tutorial at PyData Seattle 2017
+
+
+# Environment and Installs
+This tutorial requires you have an updated version of Python and Jupyter Notebook. I recommend Anaconda, which is a Python distribution. It's free and open source. You can download Anaconda from [here](https://www.continuum.io/downloads)  
+
+The notebooks contained in this tutorial is tested on Python 3, but should be mostly compatible with Python 2.x as well.
+
+* Download drivers if you use Selenium
 
 # Table of Contents
+* [Chapter 00: Introduction to Web Scraping]()
 
 * [Chapter 0: HTTP, GET requests, HTML]()  
   Here let's do a quick HTML 
@@ -16,4 +25,5 @@ This repo contains materials of my talk at PyData Seattle 2017
 
 # Aditional resources
 Check out these really cool links and get inspired!
+
 
