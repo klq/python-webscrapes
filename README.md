@@ -10,7 +10,6 @@ The notebooks contained in this tutorial is tested on Python 3, but should be mo
 * Download drivers if you use Selenium
 
 # Table of Contents
-* [Chapter 00: Introduction to Web Scraping]()
 
 * [Chapter 0: HTTP, GET requests, HTML]()  
   Here let's do a quick HTML 
@@ -20,7 +19,9 @@ The notebooks contained in this tutorial is tested on Python 3, but should be mo
   I want to see how much money the top 100 movie made. . 
 * [Chapter 3: Let's put all the code together, add loop magic]()  
   Now we have all 100 movies. Hooray!
-* [Chapter 4: Selenium]()  
+* [Chapter 4: Scraping best practices]()
+
+* [Extra Credit: Scraping the unscrapable - Selenium]()  
   I wonder if top grossing movies also have the best reviews (it sounds obvious but is it really?). Let's do some interactive web scraping with Selenium.
 
 # Aditional resources
