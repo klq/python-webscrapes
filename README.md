@@ -29,7 +29,7 @@ The notebooks contained in this tutorial is tested on Python 3, but should be mo
 
 * [Chapter 5: Scraping best practices](notebooks/05.Web-Scraping-Best-Practices.ipynb)
 
-* [Extra Credit: Scraping the unscrapable - Selenium]()   
+* [Extra Credit: Scraping the unscrapable - Selenium](notebooks/06.Extra-Credit-Scraping-the-unscrapable.ipynb)   
   I wonder if top grossing movies also have the best reviews (it sounds obvious but is it really?). Let's do some interactive web scraping with Selenium.
 
 * [Lab: HackerNews Trends Project](notebooks/Lab-Scrape-HackerNews.ipynb)  
@@ -38,6 +38,20 @@ The notebooks contained in this tutorial is tested on Python 3, but should be mo
 
 ## Aditional resources
 
-Check out these really cool links and get inspired!
-
+* [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction
+)
+* [Discover Devtools](http://discover-devtools.codeschool.com/): a free interactive intro to using Chrome's developer tools
+* [httpbin](http://httpbin.org/) lets you easily test a lot of HTTP functionality. (And it's [written](https://github.com/Runscope/httpbin) in Python; check it out!)
+* [Web Scraping with Beautiful Soup](http://web.stanford.edu/~zlotnick/TextAsData/Web_Scraping_with_Beautiful_Soup.html) from some Stanford class
+* [4 Best Practices of Web Scraping](http://scraping.pro/basic-web-scraping-principles/): not bad advice
+* The [BeautifulSoup documentation](http://www.crummy.com/software/BeautifulSoup/bs4/doc/) is very good. There are all sorts of methods and they're all described here!
+* [Newspaper](http://newspaper.readthedocs.org/), a Python library that might be helpful when you want to extract an article from a web site
+* [Here is an introduction to regular expressions](http://www.diveintopython.net/regular_expressions/)
+* [Web Scraping 101 with Python by Greg Reda (beautifulsoup)](http://www.gregreda.com/2013/03/03/web-scraping-101-with-python/)
+* [Scrapy](http://scrapy.org/)  
+An open source and collaborative framework for extracting the data you need from websites.  In a fast, simple, yet extensible way.  
+* [Scrapy Tutorial](http://doc.scrapy.org/en/latest/intro/tutorial.html)
+* The Selenium docs for [Locating Elements](http://selenium-python.readthedocs.org/locating-elements.html)
+* You can use this [XPATH selector tutorial](http://zvon.org/comp/r/tut-XPath_1.html) when you need to construct an xpath selector. You can also check out the [w3schools XPath syntax](http://www.w3schools.com/xpath/xpath_syntax.asp) guide.
+* [The 30 CSS Selectors you Must Memorize](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 
