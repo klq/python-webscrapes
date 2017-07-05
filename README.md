@@ -56,3 +56,5 @@ An open source and collaborative framework for extracting the data you need from
 * You can use this [XPATH selector tutorial](http://zvon.org/comp/r/tut-XPath_1.html) when you need to construct an xpath selector. You can also check out the [w3schools XPath syntax](http://www.w3schools.com/xpath/xpath_syntax.asp) guide.
 * [The 30 CSS Selectors you Must Memorize](http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 
+# Contribute!
+If you find a mistake, or would like to share something that wasn't covered, create an issue and send a pull request. Thank you.
