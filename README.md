@@ -1,6 +1,6 @@
 # Tutorial: Web Scraping with Python
 
-This repo contains materials of my tutorial at PyData Seattle 2017
+This repo contains materials of my tutorial at PyData Seattle 2017  
 The presentation slides can be found [here](https://docs.google.com/presentation/d/1HqOCyDjScsgsYhmPp2K4O_VN8vPzKUs5Tc3k8TyKRNA/edit?usp=sharing)
 
 
