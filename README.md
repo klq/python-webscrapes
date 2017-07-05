@@ -23,10 +23,10 @@ The notebooks contained in this tutorial is tested on Python 3, but should be mo
   Before we scrape the top movies, we have to find a list of them. We can do that in one request . This is really easy as long as there are some consistent patterns to the page.
 
 * [Chapter 3: Let's get details about one movie](notebooks/03.BeautifulSoup-with-all-the-Details.ipynb)  
-  I want to see how much money the top 100 movie made
+  I want to see how much money the top 200 movie made
 
 * [Chapter 4: Let's put all the code together, add loop magic](notebooks/04.Putting-it-all-together-Scraping-all-relevant-movies.ipynb)  
-  Now we have all 100 movies. Hooray!
+  Now we have all 200 movies. Hooray!
 
 * [Chapter 5: Scraping best practices](notebooks/05.Web-Scraping-Best-Practices.ipynb)
 
